@@ -174,7 +174,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **Name**: Rajveer Thaker
 - **Email**: conncectrajveerthaker@gmail.com  
 - **GitHub**: [Levi3061](https://github.com/yourusername)
-- **LinkedIn**: [rajveer-thaker](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [https://www.linkedin.com/in/rajveer-thaker](https://www.linkedin.com/in/yourprofile)
 
 ---
 
