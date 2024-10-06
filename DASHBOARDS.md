@@ -11,27 +11,27 @@ This document showcases the various dashboards created for the IBM Bot Detection
 
 ## Bot Activity Over Time
 
-![Bot Activity Over Time](images/bot_activity_over_time.png)
+!![image](https://github.com/user-attachments/assets/e17ab936-93b6-4e22-aba7-d77956780df3)
 
 *Description: This line chart illustrates the trend of bot activity over a specified time period.*
 
-## Top Suspicious IP Addresses
+## Exploratory Analysis
 
-![Top Suspicious IPs](images/top_suspicious_ips.png)
+![image](https://github.com/user-attachments/assets/88686230-1051-4e5e-a79e-d9c459bcd37c)
+
 
 *Description: This table lists the IP addresses with the highest bot scores, indicating potential sources of bot traffic.*
 
-## Geographical Distribution of Bot Traffic
+## Communicating Results
 
-![Geographical Bot Traffic](images/geographical_bot_traffic.png)
+![image](https://github.com/user-attachments/assets/b1c5d676-21ee-4af1-87e8-e151c1d8740d)
+
+## Traffic Found from Different Models Used
+
+![image](https://github.com/user-attachments/assets/01e867d2-b0db-462d-9cc4-713260c6aac6)
 
 *Description: A map visualization showing regions with significant bot activity.*
 
-## Bot vs. Human Traffic Comparison
-
-![Bot vs. Human Traffic](images/bot_vs_human_traffic.png)
-
-*Description: A pie chart comparing the proportion of bot traffic to human traffic.*
 
 ---
 
