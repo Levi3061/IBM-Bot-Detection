@@ -132,9 +132,9 @@ To explore the analysis and dashboards:
 
    - Download and install from [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-3. **Open the Power BI File**:
+3. **Download & Open the Power BI File**:
 
-   - Open `IBM_Bot_Detection.pbix` in Power BI Desktop.
+   - Download : https://u.pcloud.link/publink/show?code=XZmfM55ZkTVcWQJu1TbLhRGHr7m5rf154Wxk & Open `IBM_Bot_Detection.pbix` in Power BI Desktop.
 
 4. **Update Data Source**:
 
